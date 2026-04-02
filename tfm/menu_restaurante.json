@@ -1,0 +1,618 @@
+{
+    "menu": [
+        {
+            "plato": "Nuestra chiqui-burguer trufada",
+            "alergenos": [
+                "Gluten",
+                "Lácteos",
+                "Sésamo",
+                "Huevo"
+            ],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 4.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Mini hamburguesa con aroma de trufa",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Corbata de atún rojo Balfegó con los #666 botones de Lucifer",
+            "alergenos": [
+                "Pescado",
+                "Gluten",
+                "Sésamo",
+                "Huevo",
+                "Soja"
+            ],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 6.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Atún rojo de calidad Balfegó con aderezo picante",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Ostras al natural",
+            "alergenos": [
+                "Moluscos"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Unidad",
+                    "valor": 4.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "(unidad)",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Ensaladilla “PICOFINO” con huevo frito y gambones al ajillo",
+            "alergenos": [
+                "Huevo",
+                "Mariscos"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 14.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Ensaladilla de la casa servida con huevo frito y gambones al ajillo",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "La CharLATAna en matrimonio de boquerones y anchoas saladas con pimientos caramelizados",
+            "alergenos": [
+                "Pescado"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 16.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Combinación de boquerones y anchoas con pimientos caramelizados",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Aguacates rancheros",
+            "alergenos": [
+                "Pescado",
+                "Gluten",
+                "Lácteos",
+                "Soja"
+            ],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 16.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "con dados de mango, tajín, atún rojo y Doritos del kiosko",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Tartar de alcachofas",
+            "alergenos": [
+                "Pescado",
+                "Huevo",
+                "Lácteos",
+                "Soja"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 21.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "con anchoas de Santoña, panceta ibérica y lascas de parmesano #muychinini",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Tortilla “MAQUIAVELA”: Kochinota",
+            "alergenos": [
+                "Lácteos",
+                "Huevo"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 14.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "con jijas ibéricas, queso ahumado y piparras",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Tortilla “MAQUIAVELA”: Galán",
+            "alergenos": [
+                "Huevo"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 18.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "con boletus, foie y trufa",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Paleta de bellota Beher acompañada de pan con tomate",
+            "alergenos": [
+                "Gluten"
+            ],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 19.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Lomito de presa bellota, Beher",
+            "alergenos": [],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 22.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Burrata con aliño de trufa, tomate rosa y sardina ahumada",
+            "alergenos": [
+                "Lácteos",
+                "Pescado",
+                "Fruto Seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración completa",
+                    "valor": 19.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Mejillón de roca francés en salsa Bam Bam",
+            "alergenos": [
+                "Moluscos",
+                "Lácteos"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración completa",
+                    "valor": 17.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "(ligeramente picante)",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Almejas fritas a la sartén con toque de fino",
+            "alergenos": [
+                "Moluscos",
+                "Sulfitos"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración completa",
+                    "valor": 29.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Pulpo braseado en salsa mojo ligeramente picante",
+            "alergenos": [
+                "Marisco",
+                "Fruto Seco",
+                "Sésamo"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración completa",
+                    "valor": 28.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Calamar braseado Delhi Masala fusión mediterránea",
+            "alergenos": [
+                "Marisco",
+                "Fruto Seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración completa",
+                    "valor": 28.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Corazón de alcachofa refrito con boletus, foie y papada ibérica",
+            "alergenos": [
+                "Mostaza"
+            ],
+            "dietas": [
+                "Vegetariano",
+                "Vegano",
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración completa",
+                    "valor": 21.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Helado tibio de mousse de foie, queso mascarpone, algo cítrico y se lanzó al suelo",
+            "alergenos": [
+                "Fruto Seco",
+                "Sésamo",
+                "Gluten"
+            ],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 16.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Helado tibio de mousse de foie, queso mascarpone, algo cítrico y se lanzó al suelo",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Lomo de atún rojo Balfegó a 90º",
+            "alergenos": [
+                "Pescado"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 23.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "(Receta Meditada)",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Nuestros callos conTRAdición",
+            "alergenos": [],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 16.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Receta de Doña Josefina",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Mollejas de lechazo fritas en panko con piparras asadas",
+            "alergenos": [
+                "Gluten",
+                "Sésamo"
+            ],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 19.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Mollejas de lechazo fritas en panko con piparras asadas",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Steak tartar “FINCA TERRABUEY”",
+            "alergenos": [
+                "Mostaza"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 29.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Steak tartar “FINCA TERRABUEY”",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Paletillas de conejo braseadas con teriyaky de lima y miel ligeramente afrodisiacas",
+            "alergenos": [
+                "Mostaza"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 16.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Paletillas de conejo braseadas con teriyaky de lima y miel ligeramente afrodisiacas",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Carrilleras de cerdo ibérico en reducción PX con airbag de cerdo y Churrucas",
+            "alergenos": [
+                "Sulfitos",
+                "Fruto Seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 17.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Carrilleras de cerdo ibérico en reducción PX con airbag de cerdo y Churrucas",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Pluma Ibérica con kimuchi y pimientos asados",
+            "alergenos": [],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 23.5,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "Pluma Ibérica con kimuchi y pimientos asados",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "T-Bone madurado 19 días y 500 noches",
+            "alergenos": [],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Kg",
+                    "valor": 78.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "* Se presenta peso y pieza.",
+            "categoria": "Plato Principal"
+        },
+        {
+            "plato": "Tarta de queso mascarpone y galleta con abundante mantequilla",
+            "alergenos": [
+                "Lácteos",
+                "Fruto seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Precio",
+                    "valor": 6.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Postre"
+        },
+        {
+            "plato": "Coulant de chocolate con helado de nata y praliné de avellana",
+            "alergenos": [
+                "Lácteos",
+                "Fruto seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Precio",
+                    "valor": 6.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Postre"
+        },
+        {
+            "plato": "Gin-Tonic helado G-Vine",
+            "alergenos": [
+                "Lácteos",
+                "Fruto seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Precio",
+                    "valor": 6.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Postre"
+        },
+        {
+            "plato": "Torrija de pan brioche con helado de café",
+            "alergenos": [
+                "Lácteos",
+                "Fruto seco",
+                "Gluten"
+            ],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Precio",
+                    "valor": 6.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Postre"
+        },
+        {
+            "plato": "Porno X de chocolate blanco, buen mango y praliné",
+            "alergenos": [
+                "Lácteos",
+                "Fruto seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Precio",
+                    "valor": 6.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Postre"
+        },
+        {
+            "plato": "de pistacho",
+            "alergenos": [
+                "Fruto seco"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [],
+            "descripcion": "",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Tabla de quesos",
+            "alergenos": [
+                "Lácteos"
+            ],
+            "dietas": [
+                "Celíaco"
+            ],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 14.0,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Entrante"
+        },
+        {
+            "plato": "Cesta de pan",
+            "alergenos": [],
+            "dietas": [],
+            "precios": [
+                {
+                    "formato": "Ración",
+                    "valor": 1.8,
+                    "moneda": "€"
+                }
+            ],
+            "descripcion": "",
+            "categoria": "Acompañamiento"
+        }
+    ]
+}
